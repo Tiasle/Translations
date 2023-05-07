@@ -111,9 +111,9 @@ replaymod.gui.viewer.delete.lineb='%1$s'이(가) 영원히 삭제됩니다!
 #Replay Editor UI 2.0 (marker based UI)
 replaymod.gui.edit.apply=적용
 replaymod.gui.edit.split=분할 삽입
-replaymod.gui.edit.split.tooltip=표시된 지점에서 리플레이를 여러개의 리플레이로 분할합니다.
-replaymod.gui.edit.cut.start=간격 편집
-replaymod.gui.edit.cut.end=끝 편집
+replaymod.gui.edit.split.tooltip=표시된 지점에서 리플레이를 여러개의 리플레이로 분할합니다
+replaymod.gui.edit.cut.start=컷 삽입
+replaymod.gui.edit.cut.end=컷 끝
 replaymod.gui.edit.cut.tooltip=리플레이 구간을 잘라냅니다(제거)
 
 #Cancel Replay GUI
@@ -334,7 +334,7 @@ replaymod.gui.modwarning.version.found=발견
 
 #Advanced Screenshots Gui
 replaymod.gui.advancedscreenshots.title=스크린샷 설정
-replaymod.gui.advancedscreenshots.create=스크린샷 찍기
+replaymod.gui.advancedscreenshots.create=스크린샷 촬영
 replaymod.gui.advancedscreenshots.resolution=해상도
 
 # Screenshot Finished Gui
