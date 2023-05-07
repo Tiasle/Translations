@@ -229,6 +229,7 @@ replaymod.gui.rendersettings.bitrate=비트레이트
 replaymod.gui.rendersettings.framerate=영상 프레임률
 replaymod.gui.rendersettings.chromakey=크로마키
 replaymod.gui.rendersettings.nametags=이름표 렌더
+replaymod.gui.rendersettings.includealpha=알파 채널 보존
 replaymod.gui.rendersettings.outputfile=출력 파일
 replaymod.gui.rendersettings.sphericalFov=구형 FOV
 replaymod.gui.rendersettings.sphericalmetadata=구형 메타데이터 주입
