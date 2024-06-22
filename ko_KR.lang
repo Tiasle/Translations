@@ -2,7 +2,7 @@ replaymod.title=Replay Mod
 
 #All of the chat messages
 replaymod.chat.recordingstarted=녹화를 시작했습니다
-replaymod.chat.recordingfailed=녹화를 시작하지 못했습니다다
+replaymod.chat.recordingfailed=녹화를 시작하지 못했습니다
 
 replaymod.chat.savingthumb=썸네일을 저장하는 중...
 replaymod.chat.savedthumb=썸네일이 성공적으로 저장되었습니다
