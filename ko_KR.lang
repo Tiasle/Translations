@@ -191,15 +191,15 @@ replaymod.gui.editkeyframe.timelineposition=타임라인 위치
 replaymod.gui.editkeyframe.markername=이벤트 마커 이름
 replaymod.gui.editkeyframe.timestamp=시간 색인
 
-replaymod.gui.editkeyframe.interpolator=보간기
-replaymod.gui.editkeyframe.interpolator.default.name=기본 보간기
-replaymod.gui.editkeyframe.interpolator.default.desc=Replay Mod 설정에 정의된 기본 보간기를 사용합니다.
-replaymod.gui.editkeyframe.interpolator.catmullrom.name=캣멀 롬 스플라인 보간기
+replaymod.gui.editkeyframe.interpolator=보간
+replaymod.gui.editkeyframe.interpolator.default.name=기본 보간
+replaymod.gui.editkeyframe.interpolator.default.desc=Replay Mod 설정에 정의된 기본 보간법을 사용합니다.
+replaymod.gui.editkeyframe.interpolator.catmullrom.name=캣멀 롬 스플라인 보간
 replaymod.gui.editkeyframe.interpolator.catmullrom.desc=카메라 경로의 정밀 조임 및 매끄러움을 위해 사용자 지정 가능한 알파 값으로 캣멀 롬 스플라인을 계산합니다.
 replaymod.gui.editkeyframe.interpolator.catmullrom.alpha=알파:
-replaymod.gui.editkeyframe.interpolator.cubic.name=큐빅 스플라인 보간기
+replaymod.gui.editkeyframe.interpolator.cubic.name=큐빅 스플라인 보간
 replaymod.gui.editkeyframe.interpolator.cubic.desc=부드러운 카메라 경로를 위한 모든 점에 대한 입방정식 행렬을 계산합니다.
-replaymod.gui.editkeyframe.interpolator.linear.name=선형 보간기
+replaymod.gui.editkeyframe.interpolator.linear.name=선형 보간
 replaymod.gui.editkeyframe.interpolator.linear.desc=키 프레임 사이에 직선을 그립니다.
 
 #Render Settings GUI
